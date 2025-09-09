@@ -22,3 +22,15 @@ margin-top: 5px;
     font-size: 60px;
     text-align: center;
 }
+.bottom-navP{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: gray;
+}
+.icon{
+  height: 30px;
+  width: 30px;
+  margin: 10px 40px;
+}
